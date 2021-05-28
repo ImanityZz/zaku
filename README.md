@@ -15,7 +15,8 @@
 
 ## Usage Of zaku.exe
  -Np
-        no ping detect host alive
+        no ping detect host alive  
+        
   -fp string
         custom crack password file or commandline data
          if specify file use prefix 'file:' like '-fp file:user.txt', if specify commandline like '-fp password1,password2'
