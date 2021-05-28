@@ -13,8 +13,7 @@
 
 5、可关闭Ping主机存活探测
 
-## Usage 
-Usage of zaku.exe:
+## Usage Of zaku.exe
   -Np
         no ping detect host alive
   -fp string
@@ -36,7 +35,7 @@ Usage of zaku.exe:
   -timeout int
         connect timeout (default 500)
 
-![zaku](https://github.com/L4ml3da/zaku/img/zaku.jpg)
+![zaku](https://github.com/L4ml3da/zaku/blob/main/img/zaku.jpg)
 
 ## 示例
 
