@@ -13,10 +13,12 @@
 
 5、可关闭Ping主机存活探测
 
-## Usage Of zaku.exe
- -Np  
-        no ping detect host alive  
-        
+## Usage 
+```
+Usage of zaku.exe:
+  -Np
+        no ping detect host alive
+>>>>>>> 29d4817 (readme update)
   -fp string
         custom crack password file or commandline data
          if specify file use prefix 'file:' like '-fp file:user.txt', if specify commandline like '-fp password1,password2'
@@ -35,6 +37,7 @@
         run thread number (default 100)
   -timeout int
         connect timeout (default 500)
+```
 
 ![zaku](https://github.com/L4ml3da/zaku/blob/main/img/zaku.jpg)
 
