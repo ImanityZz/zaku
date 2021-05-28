@@ -14,7 +14,7 @@
 5、可关闭Ping主机存活探测
 
 ## Usage Of zaku.exe
-  -Np
+ -Np
         no ping detect host alive
   -fp string
         custom crack password file or commandline data
